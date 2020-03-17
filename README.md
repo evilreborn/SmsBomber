@@ -7,7 +7,7 @@ Just the paste the both file in your host root directory. In order to run it you
 ## How to use?
 when the script is in running state, just enter the phone number and tap on submit
 
-## How to use stop?
+## How to stop?
 Just the close the running tab
 
 ## Which OTP website are supported?
