@@ -1,5 +1,5 @@
 # SmsBomber
-a PHP webpage to bomb a phone number. Creted just for fun
+A PHP webpage to bomb a phone number. Creted just for fun
 
 ## Installation
 Just the paste the both file in your host root directory. In order to run it you can even paste these files in your localhost.
